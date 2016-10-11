@@ -1,2 +1,2 @@
 # Spark
-A simple interpreted programming language written in Java
+A simple programming language written in Java
